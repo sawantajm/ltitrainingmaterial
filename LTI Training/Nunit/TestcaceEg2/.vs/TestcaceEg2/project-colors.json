@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb6e32db-fb9f-4d38-a033-02064d38546e": {
+      "ProjectGuid": "eb6e32db-fb9f-4d38-a033-02064d38546e",
+      "DisplayName": "TestcaceEg2",
+      "ColorIndex": 0
+    },
+    "26853922-ca26-4f12-aba0-2468f9ca38ea": {
+      "ProjectGuid": "26853922-ca26-4f12-aba0-2468f9ca38ea",
+      "DisplayName": "emptestcase",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

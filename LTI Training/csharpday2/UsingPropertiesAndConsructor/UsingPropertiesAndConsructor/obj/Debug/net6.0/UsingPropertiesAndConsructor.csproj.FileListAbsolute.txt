@@ -1,0 +1,15 @@
+F:\LTI Training\csharpday2\UsingPropertiesAndConsructor\UsingPropertiesAndConsructor\bin\Debug\net6.0\UsingPropertiesAndConsructor.exe
+F:\LTI Training\csharpday2\UsingPropertiesAndConsructor\UsingPropertiesAndConsructor\bin\Debug\net6.0\UsingPropertiesAndConsructor.deps.json
+F:\LTI Training\csharpday2\UsingPropertiesAndConsructor\UsingPropertiesAndConsructor\bin\Debug\net6.0\UsingPropertiesAndConsructor.runtimeconfig.json
+F:\LTI Training\csharpday2\UsingPropertiesAndConsructor\UsingPropertiesAndConsructor\bin\Debug\net6.0\UsingPropertiesAndConsructor.dll
+F:\LTI Training\csharpday2\UsingPropertiesAndConsructor\UsingPropertiesAndConsructor\bin\Debug\net6.0\ref\UsingPropertiesAndConsructor.dll
+F:\LTI Training\csharpday2\UsingPropertiesAndConsructor\UsingPropertiesAndConsructor\bin\Debug\net6.0\UsingPropertiesAndConsructor.pdb
+F:\LTI Training\csharpday2\UsingPropertiesAndConsructor\UsingPropertiesAndConsructor\obj\Debug\net6.0\UsingPropertiesAndConsructor.csproj.AssemblyReference.cache
+F:\LTI Training\csharpday2\UsingPropertiesAndConsructor\UsingPropertiesAndConsructor\obj\Debug\net6.0\UsingPropertiesAndConsructor.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTI Training\csharpday2\UsingPropertiesAndConsructor\UsingPropertiesAndConsructor\obj\Debug\net6.0\UsingPropertiesAndConsructor.AssemblyInfoInputs.cache
+F:\LTI Training\csharpday2\UsingPropertiesAndConsructor\UsingPropertiesAndConsructor\obj\Debug\net6.0\UsingPropertiesAndConsructor.AssemblyInfo.cs
+F:\LTI Training\csharpday2\UsingPropertiesAndConsructor\UsingPropertiesAndConsructor\obj\Debug\net6.0\UsingPropertiesAndConsructor.csproj.CoreCompileInputs.cache
+F:\LTI Training\csharpday2\UsingPropertiesAndConsructor\UsingPropertiesAndConsructor\obj\Debug\net6.0\UsingPropertiesAndConsructor.dll
+F:\LTI Training\csharpday2\UsingPropertiesAndConsructor\UsingPropertiesAndConsructor\obj\Debug\net6.0\ref\UsingPropertiesAndConsructor.dll
+F:\LTI Training\csharpday2\UsingPropertiesAndConsructor\UsingPropertiesAndConsructor\obj\Debug\net6.0\UsingPropertiesAndConsructor.pdb
+F:\LTI Training\csharpday2\UsingPropertiesAndConsructor\UsingPropertiesAndConsructor\obj\Debug\net6.0\UsingPropertiesAndConsructor.genruntimeconfig.cache

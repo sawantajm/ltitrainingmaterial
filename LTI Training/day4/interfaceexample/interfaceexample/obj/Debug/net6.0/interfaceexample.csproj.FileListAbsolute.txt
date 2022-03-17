@@ -1,0 +1,15 @@
+F:\LTI Training\day4\interfaceexample\interfaceexample\obj\Debug\net6.0\interfaceexample.csproj.AssemblyReference.cache
+F:\LTI Training\day4\interfaceexample\interfaceexample\obj\Debug\net6.0\interfaceexample.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTI Training\day4\interfaceexample\interfaceexample\obj\Debug\net6.0\interfaceexample.AssemblyInfoInputs.cache
+F:\LTI Training\day4\interfaceexample\interfaceexample\obj\Debug\net6.0\interfaceexample.AssemblyInfo.cs
+F:\LTI Training\day4\interfaceexample\interfaceexample\obj\Debug\net6.0\interfaceexample.csproj.CoreCompileInputs.cache
+F:\LTI Training\day4\interfaceexample\interfaceexample\bin\Debug\net6.0\interfaceexample.exe
+F:\LTI Training\day4\interfaceexample\interfaceexample\bin\Debug\net6.0\interfaceexample.deps.json
+F:\LTI Training\day4\interfaceexample\interfaceexample\bin\Debug\net6.0\interfaceexample.runtimeconfig.json
+F:\LTI Training\day4\interfaceexample\interfaceexample\bin\Debug\net6.0\interfaceexample.dll
+F:\LTI Training\day4\interfaceexample\interfaceexample\bin\Debug\net6.0\ref\interfaceexample.dll
+F:\LTI Training\day4\interfaceexample\interfaceexample\bin\Debug\net6.0\interfaceexample.pdb
+F:\LTI Training\day4\interfaceexample\interfaceexample\obj\Debug\net6.0\interfaceexample.dll
+F:\LTI Training\day4\interfaceexample\interfaceexample\obj\Debug\net6.0\ref\interfaceexample.dll
+F:\LTI Training\day4\interfaceexample\interfaceexample\obj\Debug\net6.0\interfaceexample.pdb
+F:\LTI Training\day4\interfaceexample\interfaceexample\obj\Debug\net6.0\interfaceexample.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+F:\LTI Training\C#Assignment\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.csproj.AssemblyReference.cache
+F:\LTI Training\C#Assignment\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTI Training\C#Assignment\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.AssemblyInfoInputs.cache
+F:\LTI Training\C#Assignment\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.AssemblyInfo.cs
+F:\LTI Training\C#Assignment\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.csproj.CoreCompileInputs.cache
+F:\LTI Training\C#Assignment\Assignment3\Assignment3\bin\Debug\net6.0\Assignment3.exe
+F:\LTI Training\C#Assignment\Assignment3\Assignment3\bin\Debug\net6.0\Assignment3.deps.json
+F:\LTI Training\C#Assignment\Assignment3\Assignment3\bin\Debug\net6.0\Assignment3.runtimeconfig.json
+F:\LTI Training\C#Assignment\Assignment3\Assignment3\bin\Debug\net6.0\Assignment3.dll
+F:\LTI Training\C#Assignment\Assignment3\Assignment3\bin\Debug\net6.0\ref\Assignment3.dll
+F:\LTI Training\C#Assignment\Assignment3\Assignment3\bin\Debug\net6.0\Assignment3.pdb
+F:\LTI Training\C#Assignment\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.dll
+F:\LTI Training\C#Assignment\Assignment3\Assignment3\obj\Debug\net6.0\ref\Assignment3.dll
+F:\LTI Training\C#Assignment\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.pdb
+F:\LTI Training\C#Assignment\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+﻿@model IEnumerable<databaseconn.Models.Customer>
+
+@{
+    ViewData["Title"] = "Cust";
+}
+
+<h1>Cust</h1>
+
+@foreach(var i in Model)
+{
+    <li>@i.Orders</li>
+    <li>@i.ContactName</li>
+    <li>@i.CompanyName</li>
+    <li>@i.Address</li>
+}

@@ -1,0 +1,136 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Registration Form</title>
+    <style>
+        form {
+            text-align: center;
+            border: double;
+        }
+        div {
+            background-color: lightgrey;
+            width: 300px;
+            border: 15px  solid green;
+            padding: 50px;
+            margin: 20px;
+        }
+       
+        
+        
+    </style>
+    <script type="text/javascript">
+       // const { type } = require("jquery");
+
+
+        function formValidator() {
+            var firstname = document.getElementById("fname");
+            var zipcode = document.getElementById("zip");
+            var email = document.getElementById("email");
+            var state = document.getElementById("state");
+
+            if (isAlphabet(firstname, "In First Name Only Alphabet ")) {
+                if (emailvalidator(email, "Please Enetr vallid Email")) {
+                    if (isNumeric(zipcode, "Only Numeric  in Zip code!!!")) {
+                        if (madeselection(state, "Please choose from belowlist")) {
+                            return true;
+                        }
+                    }
+                }
+            }
+            else {
+              return false;
+            }
+            
+
+            //First Name
+
+            function isAlphabet(elem, helperMsg) {
+                var alphaExp = /^[a-zA-Z]+$/;
+                if (elem.value.match(alphaExp)) {
+                    return true;
+                }
+                else {
+                    alert(helperMsg);
+                    elem.focus();
+                    return false;
+                }
+            }
+
+            //Zipcode
+            function isNumeric(elem, helperMsg) {
+                var numericExp = /^[0-9]+$/;
+                if (elem.value.match(numericExp)) {
+                    return true;
+
+                }
+                else {
+                    alert(helperMsg);
+                    elem.focus();
+                    return false;
+                }
+
+            }
+            //email
+            function emailvalidator(elem, helperMsg)
+            {
+                var emailExp = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+                if (elem.value.match(emailExp))
+                {
+                    return true;
+                }
+                else {
+                    alert(helperMsg);
+                    elem.focus();
+                    return false;
+                }
+            }
+
+            //select List
+            function madeselection(elem, helperMsg) {
+                if (elem.value == "Please Choose") {
+                    alert(helperMsg);
+                    elem.focus();
+                    return false;
+
+                }
+                else {
+                    return true;
+                }
+            }
+        }
+            
+            </script>
+</head>
+<body >
+    <center>
+        <center><h1>Registration Form</h1>
+    </center>
+                <div>
+            <form onsubmit="return formValidator()">
+
+                First Name:<input type="Text" id="fname" required width="100" /><br /> <br />
+                Last Name:<input type="text" id="laname" /><br /><br />
+                Age:<input type="number" id="usage" min="18" max="60" required\n />
+                Email:<input type="text" id="email" /><br /><br />
+                Address:<textarea rows="5" cols="10"></textarea><br /><br />
+                ZipCode:<input type="text" id="zip" /><br /><br />
+                State:<select id="state">
+                    <option> Please Choose</option>
+                    <option>Maharashtra</option>
+                    <option>Rajstan</option>
+                    <option>kerala </option>
+                    <option>Tamilnadu</option>
+                </select><br /><br />
+                <input type="submit" /> &nbsp;&nbsp;<input type="Reset" />
+                <script>
+
+                </script>
+
+            </form>
+        </div>
+
+</center>
+
+</body>
+</html>

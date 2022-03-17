@@ -1,0 +1,15 @@
+F:\LTI Training\Nunit\Employeedetails\prjEmployee\obj\Debug\net6.0\prjEmployee.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTI Training\Nunit\Employeedetails\prjEmployee\obj\Debug\net6.0\prjEmployee.AssemblyInfoInputs.cache
+F:\LTI Training\Nunit\Employeedetails\prjEmployee\obj\Debug\net6.0\prjEmployee.AssemblyInfo.cs
+F:\LTI Training\Nunit\Employeedetails\prjEmployee\obj\Debug\net6.0\prjEmployee.csproj.CoreCompileInputs.cache
+F:\LTI Training\Nunit\Employeedetails\prjEmployee\bin\Debug\net6.0\prjEmployee.exe
+F:\LTI Training\Nunit\Employeedetails\prjEmployee\bin\Debug\net6.0\prjEmployee.deps.json
+F:\LTI Training\Nunit\Employeedetails\prjEmployee\bin\Debug\net6.0\prjEmployee.runtimeconfig.json
+F:\LTI Training\Nunit\Employeedetails\prjEmployee\bin\Debug\net6.0\prjEmployee.dll
+F:\LTI Training\Nunit\Employeedetails\prjEmployee\bin\Debug\net6.0\ref\prjEmployee.dll
+F:\LTI Training\Nunit\Employeedetails\prjEmployee\bin\Debug\net6.0\prjEmployee.pdb
+F:\LTI Training\Nunit\Employeedetails\prjEmployee\obj\Debug\net6.0\prjEmployee.csproj.AssemblyReference.cache
+F:\LTI Training\Nunit\Employeedetails\prjEmployee\obj\Debug\net6.0\prjEmployee.dll
+F:\LTI Training\Nunit\Employeedetails\prjEmployee\obj\Debug\net6.0\ref\prjEmployee.dll
+F:\LTI Training\Nunit\Employeedetails\prjEmployee\obj\Debug\net6.0\prjEmployee.pdb
+F:\LTI Training\Nunit\Employeedetails\prjEmployee\obj\Debug\net6.0\prjEmployee.genruntimeconfig.cache

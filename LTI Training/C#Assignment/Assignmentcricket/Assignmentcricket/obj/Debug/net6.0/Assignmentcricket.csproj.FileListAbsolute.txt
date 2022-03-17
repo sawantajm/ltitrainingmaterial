@@ -1,0 +1,15 @@
+F:\LTI Training\C#Assignment\Assignmentcricket\Assignmentcricket\bin\Debug\net6.0\Assignmentcricket.exe
+F:\LTI Training\C#Assignment\Assignmentcricket\Assignmentcricket\bin\Debug\net6.0\Assignmentcricket.deps.json
+F:\LTI Training\C#Assignment\Assignmentcricket\Assignmentcricket\bin\Debug\net6.0\Assignmentcricket.runtimeconfig.json
+F:\LTI Training\C#Assignment\Assignmentcricket\Assignmentcricket\bin\Debug\net6.0\Assignmentcricket.dll
+F:\LTI Training\C#Assignment\Assignmentcricket\Assignmentcricket\bin\Debug\net6.0\ref\Assignmentcricket.dll
+F:\LTI Training\C#Assignment\Assignmentcricket\Assignmentcricket\bin\Debug\net6.0\Assignmentcricket.pdb
+F:\LTI Training\C#Assignment\Assignmentcricket\Assignmentcricket\obj\Debug\net6.0\Assignmentcricket.csproj.AssemblyReference.cache
+F:\LTI Training\C#Assignment\Assignmentcricket\Assignmentcricket\obj\Debug\net6.0\Assignmentcricket.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTI Training\C#Assignment\Assignmentcricket\Assignmentcricket\obj\Debug\net6.0\Assignmentcricket.AssemblyInfoInputs.cache
+F:\LTI Training\C#Assignment\Assignmentcricket\Assignmentcricket\obj\Debug\net6.0\Assignmentcricket.AssemblyInfo.cs
+F:\LTI Training\C#Assignment\Assignmentcricket\Assignmentcricket\obj\Debug\net6.0\Assignmentcricket.csproj.CoreCompileInputs.cache
+F:\LTI Training\C#Assignment\Assignmentcricket\Assignmentcricket\obj\Debug\net6.0\Assignmentcricket.dll
+F:\LTI Training\C#Assignment\Assignmentcricket\Assignmentcricket\obj\Debug\net6.0\ref\Assignmentcricket.dll
+F:\LTI Training\C#Assignment\Assignmentcricket\Assignmentcricket\obj\Debug\net6.0\Assignmentcricket.pdb
+F:\LTI Training\C#Assignment\Assignmentcricket\Assignmentcricket\obj\Debug\net6.0\Assignmentcricket.genruntimeconfig.cache

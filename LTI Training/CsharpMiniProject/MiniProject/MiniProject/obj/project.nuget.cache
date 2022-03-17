@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nCzZgUWh89YZO/GG//av4vHFWN5mMDushH2L5eiZ/7ZuqNb+ofFVr886lPIOOGviP93KZD3frXiH3hQ1UJLjQQ==",
+  "success": true,
+  "projectFilePath": "F:\\LTI Training\\CsharpMiniProject\\MiniProject\\MiniProject\\MiniProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sai\\.nuget\\packages\\lumenworkscsvreader\\4.0.0\\lumenworkscsvreader.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

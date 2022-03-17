@@ -1,0 +1,5 @@
+F:\LTI Training\Nunit\TestcaceEg2\emptestcase\obj\Debug\net6.0\emptestcase.csproj.AssemblyReference.cache
+F:\LTI Training\Nunit\TestcaceEg2\emptestcase\obj\Debug\net6.0\emptestcase.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTI Training\Nunit\TestcaceEg2\emptestcase\obj\Debug\net6.0\emptestcase.AssemblyInfoInputs.cache
+F:\LTI Training\Nunit\TestcaceEg2\emptestcase\obj\Debug\net6.0\emptestcase.AssemblyInfo.cs
+F:\LTI Training\Nunit\TestcaceEg2\emptestcase\obj\Debug\net6.0\emptestcase.csproj.CoreCompileInputs.cache

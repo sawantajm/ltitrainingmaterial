@@ -1,0 +1,24 @@
+<p>loginform works!</p>
+<form #loginform="ngForm">
+
+    <div class="form-group">
+        <label>User Name:</label>
+        <input  type="text" name="username" [ngModel]="username" #uname="ngModel" required  email />
+        <div *ngIf="!uname.valid && (uname?.dirty || uname?. touched)"class="error">
+            <div *ngIf="uname?.errors?.['require']">
+                Username is require
+            </div>
+            <div *ngIf="uname?.errors?.['email']">
+                Email format
+            </div>
+        </div>
+    </div>
+
+
+    <div class="form-group">
+        <label>Password</label>
+        <input type="password" name="pwd" [(ngModel)]="pwd" #password="ngModel"/>
+
+    </div>
+   <button class="btn btn-primary" (click)="dologin(loginform)">login</button>
+</form>

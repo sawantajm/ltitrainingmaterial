@@ -1,0 +1,18 @@
+﻿@model IEnumerable<tryfilereading.Models.fileupload>
+@{
+       ViewData["Title"] = "FileRead";
+}
+
+<h1>FileRead</h1>
+<div>
+    <form method="post" asp-controller=file   asp-action=FileRead  >
+        <input type="text" class="file_input_textbox" readonly="readonly" value='No File Selected'>
+<div class="file_input_div">
+    <input type="button" value="Browse" class="file_input_button" />
+    <input type="file" name="uploaded_file" class="file_input_hidden"/>
+</div>
+<button type="submit">Upload</button>
+</form>
+</div>
+
+

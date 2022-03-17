@@ -1,0 +1,15 @@
+F:\LTI Training\Csharpday3\Csharp4Assignment\Csharp4Assignment\bin\Debug\net6.0\Csharp4Assignment.exe
+F:\LTI Training\Csharpday3\Csharp4Assignment\Csharp4Assignment\bin\Debug\net6.0\Csharp4Assignment.deps.json
+F:\LTI Training\Csharpday3\Csharp4Assignment\Csharp4Assignment\bin\Debug\net6.0\Csharp4Assignment.runtimeconfig.json
+F:\LTI Training\Csharpday3\Csharp4Assignment\Csharp4Assignment\bin\Debug\net6.0\Csharp4Assignment.dll
+F:\LTI Training\Csharpday3\Csharp4Assignment\Csharp4Assignment\bin\Debug\net6.0\ref\Csharp4Assignment.dll
+F:\LTI Training\Csharpday3\Csharp4Assignment\Csharp4Assignment\bin\Debug\net6.0\Csharp4Assignment.pdb
+F:\LTI Training\Csharpday3\Csharp4Assignment\Csharp4Assignment\obj\Debug\net6.0\Csharp4Assignment.csproj.AssemblyReference.cache
+F:\LTI Training\Csharpday3\Csharp4Assignment\Csharp4Assignment\obj\Debug\net6.0\Csharp4Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTI Training\Csharpday3\Csharp4Assignment\Csharp4Assignment\obj\Debug\net6.0\Csharp4Assignment.AssemblyInfoInputs.cache
+F:\LTI Training\Csharpday3\Csharp4Assignment\Csharp4Assignment\obj\Debug\net6.0\Csharp4Assignment.AssemblyInfo.cs
+F:\LTI Training\Csharpday3\Csharp4Assignment\Csharp4Assignment\obj\Debug\net6.0\Csharp4Assignment.csproj.CoreCompileInputs.cache
+F:\LTI Training\Csharpday3\Csharp4Assignment\Csharp4Assignment\obj\Debug\net6.0\Csharp4Assignment.dll
+F:\LTI Training\Csharpday3\Csharp4Assignment\Csharp4Assignment\obj\Debug\net6.0\ref\Csharp4Assignment.dll
+F:\LTI Training\Csharpday3\Csharp4Assignment\Csharp4Assignment\obj\Debug\net6.0\Csharp4Assignment.pdb
+F:\LTI Training\Csharpday3\Csharp4Assignment\Csharp4Assignment\obj\Debug\net6.0\Csharp4Assignment.genruntimeconfig.cache

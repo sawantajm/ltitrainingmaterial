@@ -1,0 +1,5 @@
+F:\LTI Training\Csharpday3\InerFaceConcept\InerFaceConcept\obj\Debug\net6.0\InerFaceConcept.csproj.AssemblyReference.cache
+F:\LTI Training\Csharpday3\InerFaceConcept\InerFaceConcept\obj\Debug\net6.0\InerFaceConcept.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTI Training\Csharpday3\InerFaceConcept\InerFaceConcept\obj\Debug\net6.0\InerFaceConcept.AssemblyInfoInputs.cache
+F:\LTI Training\Csharpday3\InerFaceConcept\InerFaceConcept\obj\Debug\net6.0\InerFaceConcept.AssemblyInfo.cs
+F:\LTI Training\Csharpday3\InerFaceConcept\InerFaceConcept\obj\Debug\net6.0\InerFaceConcept.csproj.CoreCompileInputs.cache

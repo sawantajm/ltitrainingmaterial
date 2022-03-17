@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Wedding Invitation</title>
+    <style>
+        form {
+            background-color: #dad8c9;
+            width: 600px;
+            border: ridge;
+        }
+        div {
+            margin-top: 100px;
+            margin-bottom: 100px;
+            margin-right: 150px;
+            margin-left: 80px;
+        }
+        big{
+            font-size:xx-large;
+        }
+        h1{
+            font-family:'Bell MT';
+        }
+    </style>
+</head>
+<body>
+   <center>
+       <form>
+           <div>
+           <h3>TOGETHER</h3>
+           <h3>WITH THEIR FAMILES</h3>
+           <h1>OLIVAIA</h1>
+           <h4> AND</h4>
+           <h1>MATTHEW</h1>
+           <H4>REQUEST YOUR PRESENCE</H4>
+           <h4>AT THEIR MARRIGE</h4>
+           <h4>MAY<big>21</big>  2022</h4>
+           <h4>AT FIVE O'CLOCK IN THE EVINING </h4>
+           <h4>HEY BABE RANCH</h4>
+           <h4>1624 MOUTAIN TWIST ROAD</h4>
+           <h4>ALPINE,CALIFORNIA</h4>
+               </div>
+       </form>
+   </center>
+
+</body>
+</html>

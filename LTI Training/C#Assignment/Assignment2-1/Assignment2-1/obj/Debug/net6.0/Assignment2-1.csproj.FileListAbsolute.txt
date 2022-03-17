@@ -1,0 +1,15 @@
+F:\LTI Training\C#Assignment\Assignment2-1\Assignment2-1\bin\Debug\net6.0\Assignment2-1.exe
+F:\LTI Training\C#Assignment\Assignment2-1\Assignment2-1\bin\Debug\net6.0\Assignment2-1.deps.json
+F:\LTI Training\C#Assignment\Assignment2-1\Assignment2-1\bin\Debug\net6.0\Assignment2-1.runtimeconfig.json
+F:\LTI Training\C#Assignment\Assignment2-1\Assignment2-1\bin\Debug\net6.0\Assignment2-1.dll
+F:\LTI Training\C#Assignment\Assignment2-1\Assignment2-1\bin\Debug\net6.0\ref\Assignment2-1.dll
+F:\LTI Training\C#Assignment\Assignment2-1\Assignment2-1\bin\Debug\net6.0\Assignment2-1.pdb
+F:\LTI Training\C#Assignment\Assignment2-1\Assignment2-1\obj\Debug\net6.0\Assignment2-1.csproj.AssemblyReference.cache
+F:\LTI Training\C#Assignment\Assignment2-1\Assignment2-1\obj\Debug\net6.0\Assignment2-1.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTI Training\C#Assignment\Assignment2-1\Assignment2-1\obj\Debug\net6.0\Assignment2-1.AssemblyInfoInputs.cache
+F:\LTI Training\C#Assignment\Assignment2-1\Assignment2-1\obj\Debug\net6.0\Assignment2-1.AssemblyInfo.cs
+F:\LTI Training\C#Assignment\Assignment2-1\Assignment2-1\obj\Debug\net6.0\Assignment2-1.csproj.CoreCompileInputs.cache
+F:\LTI Training\C#Assignment\Assignment2-1\Assignment2-1\obj\Debug\net6.0\Assignment2-1.dll
+F:\LTI Training\C#Assignment\Assignment2-1\Assignment2-1\obj\Debug\net6.0\ref\Assignment2-1.dll
+F:\LTI Training\C#Assignment\Assignment2-1\Assignment2-1\obj\Debug\net6.0\Assignment2-1.pdb
+F:\LTI Training\C#Assignment\Assignment2-1\Assignment2-1\obj\Debug\net6.0\Assignment2-1.genruntimeconfig.cache

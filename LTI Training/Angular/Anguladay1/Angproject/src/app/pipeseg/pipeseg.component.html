@@ -1,0 +1,41 @@
+<p>pipeseg works!</p>
+<h1>Inbuild -pipes</h1>
+<h2>String manipulation</h2>
+<p>Uppercase:{{title|uppercase}}</p><br/>
+<p>LowerCase:{{title|lowercase}}</p>
+<p>TitleCase:{{title|titlecase}}</p><br/>
+<p>Slice:{{title|slice:4:6}}</p><br/>
+
+<h2>Date Pipes</h2>
+FullDate:{{todaydate}}<br/>
+short Date:{{todaydate|date:'shortDate'}}<br/>
+Medium:{{todaydate|date:'mediumDate'}}<br/>
+
+<h2>Currancy Pipes</h2>
+USD Dollar{{ammount|currency:'USD':true}}<br/>
+no formate{{ammount}}<br/>
+INT:{{ammount|currency:'INR':true}}<br/>
+
+<hr/>
+<h1>Custome Pipes</h1>
+
+
+<input type="text" [(ngModel)]="stext" placeholder="Search from location"/>
+<table class="table table-hover">
+    <thead>
+        <tr>
+           
+            <th>Department Id</th>
+            <th>Dpartment</th>
+            <th>Location</th>
+        </tr>
+    </thead>
+    <tbody *ngFor="let d of dept|locationfilterpipe:stext">
+        <tr>
+             <td>{{d.did}}</td>
+            <td>{{d.dname}}</td>
+            <td>{{d.location}}</td>
+        </tr>
+    </tbody>
+</table>
+

@@ -1,0 +1,11 @@
+<h1>Parent Component</h1>
+{{mychildname}}
+
+
+
+
+
+<hr>
+
+
+<app-child [inputfromparent]="username"(outputfromchild)="recievedata($event)" (sendvalue)="recievehobby($event)"></app-child>

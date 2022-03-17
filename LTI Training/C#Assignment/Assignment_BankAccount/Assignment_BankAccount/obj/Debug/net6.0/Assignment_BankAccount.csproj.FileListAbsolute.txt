@@ -1,0 +1,15 @@
+F:\LTI Training\C#Assignment\Assignment_BankAccount\Assignment_BankAccount\bin\Debug\net6.0\Assignment_BankAccount.exe
+F:\LTI Training\C#Assignment\Assignment_BankAccount\Assignment_BankAccount\bin\Debug\net6.0\Assignment_BankAccount.deps.json
+F:\LTI Training\C#Assignment\Assignment_BankAccount\Assignment_BankAccount\bin\Debug\net6.0\Assignment_BankAccount.runtimeconfig.json
+F:\LTI Training\C#Assignment\Assignment_BankAccount\Assignment_BankAccount\bin\Debug\net6.0\Assignment_BankAccount.dll
+F:\LTI Training\C#Assignment\Assignment_BankAccount\Assignment_BankAccount\bin\Debug\net6.0\ref\Assignment_BankAccount.dll
+F:\LTI Training\C#Assignment\Assignment_BankAccount\Assignment_BankAccount\bin\Debug\net6.0\Assignment_BankAccount.pdb
+F:\LTI Training\C#Assignment\Assignment_BankAccount\Assignment_BankAccount\obj\Debug\net6.0\Assignment_BankAccount.csproj.AssemblyReference.cache
+F:\LTI Training\C#Assignment\Assignment_BankAccount\Assignment_BankAccount\obj\Debug\net6.0\Assignment_BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTI Training\C#Assignment\Assignment_BankAccount\Assignment_BankAccount\obj\Debug\net6.0\Assignment_BankAccount.AssemblyInfoInputs.cache
+F:\LTI Training\C#Assignment\Assignment_BankAccount\Assignment_BankAccount\obj\Debug\net6.0\Assignment_BankAccount.AssemblyInfo.cs
+F:\LTI Training\C#Assignment\Assignment_BankAccount\Assignment_BankAccount\obj\Debug\net6.0\Assignment_BankAccount.csproj.CoreCompileInputs.cache
+F:\LTI Training\C#Assignment\Assignment_BankAccount\Assignment_BankAccount\obj\Debug\net6.0\Assignment_BankAccount.dll
+F:\LTI Training\C#Assignment\Assignment_BankAccount\Assignment_BankAccount\obj\Debug\net6.0\ref\Assignment_BankAccount.dll
+F:\LTI Training\C#Assignment\Assignment_BankAccount\Assignment_BankAccount\obj\Debug\net6.0\Assignment_BankAccount.pdb
+F:\LTI Training\C#Assignment\Assignment_BankAccount\Assignment_BankAccount\obj\Debug\net6.0\Assignment_BankAccount.genruntimeconfig.cache

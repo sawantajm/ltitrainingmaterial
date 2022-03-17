@@ -1,0 +1,15 @@
+F:\LTI Training\C#Assignment\Csharpday3Assignment\Csharpday3Assignment\obj\Debug\net6.0\Csharpday3Assignment.csproj.AssemblyReference.cache
+F:\LTI Training\C#Assignment\Csharpday3Assignment\Csharpday3Assignment\obj\Debug\net6.0\Csharpday3Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTI Training\C#Assignment\Csharpday3Assignment\Csharpday3Assignment\obj\Debug\net6.0\Csharpday3Assignment.AssemblyInfoInputs.cache
+F:\LTI Training\C#Assignment\Csharpday3Assignment\Csharpday3Assignment\obj\Debug\net6.0\Csharpday3Assignment.AssemblyInfo.cs
+F:\LTI Training\C#Assignment\Csharpday3Assignment\Csharpday3Assignment\obj\Debug\net6.0\Csharpday3Assignment.csproj.CoreCompileInputs.cache
+F:\LTI Training\C#Assignment\Csharpday3Assignment\Csharpday3Assignment\bin\Debug\net6.0\Csharpday3Assignment.exe
+F:\LTI Training\C#Assignment\Csharpday3Assignment\Csharpday3Assignment\bin\Debug\net6.0\Csharpday3Assignment.deps.json
+F:\LTI Training\C#Assignment\Csharpday3Assignment\Csharpday3Assignment\bin\Debug\net6.0\Csharpday3Assignment.runtimeconfig.json
+F:\LTI Training\C#Assignment\Csharpday3Assignment\Csharpday3Assignment\bin\Debug\net6.0\Csharpday3Assignment.dll
+F:\LTI Training\C#Assignment\Csharpday3Assignment\Csharpday3Assignment\bin\Debug\net6.0\ref\Csharpday3Assignment.dll
+F:\LTI Training\C#Assignment\Csharpday3Assignment\Csharpday3Assignment\bin\Debug\net6.0\Csharpday3Assignment.pdb
+F:\LTI Training\C#Assignment\Csharpday3Assignment\Csharpday3Assignment\obj\Debug\net6.0\Csharpday3Assignment.dll
+F:\LTI Training\C#Assignment\Csharpday3Assignment\Csharpday3Assignment\obj\Debug\net6.0\ref\Csharpday3Assignment.dll
+F:\LTI Training\C#Assignment\Csharpday3Assignment\Csharpday3Assignment\obj\Debug\net6.0\Csharpday3Assignment.pdb
+F:\LTI Training\C#Assignment\Csharpday3Assignment\Csharpday3Assignment\obj\Debug\net6.0\Csharpday3Assignment.genruntimeconfig.cache

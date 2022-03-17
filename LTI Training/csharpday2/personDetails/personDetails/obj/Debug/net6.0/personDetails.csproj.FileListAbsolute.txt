@@ -1,0 +1,15 @@
+F:\LTI Training\csharpday2\personDetails\personDetails\bin\Debug\net6.0\personDetails.exe
+F:\LTI Training\csharpday2\personDetails\personDetails\bin\Debug\net6.0\personDetails.deps.json
+F:\LTI Training\csharpday2\personDetails\personDetails\bin\Debug\net6.0\personDetails.runtimeconfig.json
+F:\LTI Training\csharpday2\personDetails\personDetails\bin\Debug\net6.0\personDetails.dll
+F:\LTI Training\csharpday2\personDetails\personDetails\bin\Debug\net6.0\ref\personDetails.dll
+F:\LTI Training\csharpday2\personDetails\personDetails\bin\Debug\net6.0\personDetails.pdb
+F:\LTI Training\csharpday2\personDetails\personDetails\obj\Debug\net6.0\personDetails.csproj.AssemblyReference.cache
+F:\LTI Training\csharpday2\personDetails\personDetails\obj\Debug\net6.0\personDetails.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTI Training\csharpday2\personDetails\personDetails\obj\Debug\net6.0\personDetails.AssemblyInfoInputs.cache
+F:\LTI Training\csharpday2\personDetails\personDetails\obj\Debug\net6.0\personDetails.AssemblyInfo.cs
+F:\LTI Training\csharpday2\personDetails\personDetails\obj\Debug\net6.0\personDetails.csproj.CoreCompileInputs.cache
+F:\LTI Training\csharpday2\personDetails\personDetails\obj\Debug\net6.0\personDetails.dll
+F:\LTI Training\csharpday2\personDetails\personDetails\obj\Debug\net6.0\ref\personDetails.dll
+F:\LTI Training\csharpday2\personDetails\personDetails\obj\Debug\net6.0\personDetails.pdb
+F:\LTI Training\csharpday2\personDetails\personDetails\obj\Debug\net6.0\personDetails.genruntimeconfig.cache

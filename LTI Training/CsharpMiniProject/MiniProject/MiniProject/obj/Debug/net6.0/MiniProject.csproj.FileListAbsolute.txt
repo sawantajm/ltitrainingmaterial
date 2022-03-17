@@ -1,0 +1,17 @@
+F:\LTI Training\CsharpMiniProject\MiniProject\MiniProject\bin\Debug\net6.0\MiniProject.exe
+F:\LTI Training\CsharpMiniProject\MiniProject\MiniProject\bin\Debug\net6.0\MiniProject.deps.json
+F:\LTI Training\CsharpMiniProject\MiniProject\MiniProject\bin\Debug\net6.0\MiniProject.runtimeconfig.json
+F:\LTI Training\CsharpMiniProject\MiniProject\MiniProject\bin\Debug\net6.0\MiniProject.dll
+F:\LTI Training\CsharpMiniProject\MiniProject\MiniProject\bin\Debug\net6.0\ref\MiniProject.dll
+F:\LTI Training\CsharpMiniProject\MiniProject\MiniProject\bin\Debug\net6.0\MiniProject.pdb
+F:\LTI Training\CsharpMiniProject\MiniProject\MiniProject\obj\Debug\net6.0\MiniProject.csproj.AssemblyReference.cache
+F:\LTI Training\CsharpMiniProject\MiniProject\MiniProject\obj\Debug\net6.0\MiniProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTI Training\CsharpMiniProject\MiniProject\MiniProject\obj\Debug\net6.0\MiniProject.AssemblyInfoInputs.cache
+F:\LTI Training\CsharpMiniProject\MiniProject\MiniProject\obj\Debug\net6.0\MiniProject.AssemblyInfo.cs
+F:\LTI Training\CsharpMiniProject\MiniProject\MiniProject\obj\Debug\net6.0\MiniProject.csproj.CoreCompileInputs.cache
+F:\LTI Training\CsharpMiniProject\MiniProject\MiniProject\obj\Debug\net6.0\MiniProject.dll
+F:\LTI Training\CsharpMiniProject\MiniProject\MiniProject\obj\Debug\net6.0\ref\MiniProject.dll
+F:\LTI Training\CsharpMiniProject\MiniProject\MiniProject\obj\Debug\net6.0\MiniProject.pdb
+F:\LTI Training\CsharpMiniProject\MiniProject\MiniProject\obj\Debug\net6.0\MiniProject.genruntimeconfig.cache
+F:\LTI Training\CsharpMiniProject\MiniProject\MiniProject\bin\Debug\net6.0\LumenWorks.Framework.IO.dll
+F:\LTI Training\CsharpMiniProject\MiniProject\MiniProject\obj\Debug\net6.0\MiniProject.csproj.CopyComplete

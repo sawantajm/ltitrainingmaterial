@@ -1,0 +1,13 @@
+﻿@model IEnumerable<MVCDAY1App2.Models.Employee>
+@{
+    ViewData["Title"] = "Displaydata";
+}
+
+<h1>Employee Data</h1>
+
+@foreach(var i in Model)
+{      
+    <tr>@i.eid</tr>
+    <tr>@i.ename</tr>
+    <tr>@i.salary</tr><br />
+}

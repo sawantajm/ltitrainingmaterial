@@ -1,0 +1,12 @@
+﻿@model IEnumerable<databaseconn.Models.Employee>
+@{
+    ViewData["Title"] = "SecondLetter";
+}
+
+<h1>SecondLetter</h1>
+
+@foreach(var name in   ViewBag.sletter)
+{
+    <li>@name</li>
+}
+

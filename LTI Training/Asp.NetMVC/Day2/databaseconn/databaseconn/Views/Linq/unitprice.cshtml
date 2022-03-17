@@ -1,0 +1,16 @@
+﻿@model IEnumerable<databaseconn.Models.Product>
+
+@{
+    ViewData["Title"] = "unitprice";
+}
+
+<h1>unitprice</h1>
+
+@foreach(var unit in  Model)
+{
+    <li>@unit.UnitPrice</li>
+    <li>@unit.ProductName</li>
+}
+
+
+

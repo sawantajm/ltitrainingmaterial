@@ -1,0 +1,15 @@
+F:\LTI Training\day4\ConsoleApp1\LinqEg\bin\Debug\net6.0\LinqEg.exe
+F:\LTI Training\day4\ConsoleApp1\LinqEg\bin\Debug\net6.0\LinqEg.deps.json
+F:\LTI Training\day4\ConsoleApp1\LinqEg\bin\Debug\net6.0\LinqEg.runtimeconfig.json
+F:\LTI Training\day4\ConsoleApp1\LinqEg\bin\Debug\net6.0\LinqEg.dll
+F:\LTI Training\day4\ConsoleApp1\LinqEg\bin\Debug\net6.0\ref\LinqEg.dll
+F:\LTI Training\day4\ConsoleApp1\LinqEg\bin\Debug\net6.0\LinqEg.pdb
+F:\LTI Training\day4\ConsoleApp1\LinqEg\obj\Debug\net6.0\LinqEg.csproj.AssemblyReference.cache
+F:\LTI Training\day4\ConsoleApp1\LinqEg\obj\Debug\net6.0\LinqEg.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTI Training\day4\ConsoleApp1\LinqEg\obj\Debug\net6.0\LinqEg.AssemblyInfoInputs.cache
+F:\LTI Training\day4\ConsoleApp1\LinqEg\obj\Debug\net6.0\LinqEg.AssemblyInfo.cs
+F:\LTI Training\day4\ConsoleApp1\LinqEg\obj\Debug\net6.0\LinqEg.csproj.CoreCompileInputs.cache
+F:\LTI Training\day4\ConsoleApp1\LinqEg\obj\Debug\net6.0\LinqEg.dll
+F:\LTI Training\day4\ConsoleApp1\LinqEg\obj\Debug\net6.0\ref\LinqEg.dll
+F:\LTI Training\day4\ConsoleApp1\LinqEg\obj\Debug\net6.0\LinqEg.pdb
+F:\LTI Training\day4\ConsoleApp1\LinqEg\obj\Debug\net6.0\LinqEg.genruntimeconfig.cache

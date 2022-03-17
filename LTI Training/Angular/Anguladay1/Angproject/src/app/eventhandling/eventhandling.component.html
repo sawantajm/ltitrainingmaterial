@@ -1,0 +1,27 @@
+<h1>eventhandling works!</h1>
+
+
+<button type="button"(click)="welcomeMsg()">click Me </button>
+
+<input type="text" #uname>
+<button class="btn btn-primary" (click)="displayname(uname)">GetName</button>
+{{fname}}<br/>
+<hr/>
+<h3>Example3</h3>
+<span class="glyphicon glyphicon-thumbs-up" (click)="likeincrement()"></span>
+<h2>Likes:{{likeup}}</h2><br/>
+<br/>
+<span class="glyphicon glyphicon-thumbs-down" (click)="likedecrement()"></span>
+<h3>LikeDown:{{likedown}}</h3>
+
+<hr/>
+<h4 class="text-danger">Toggle BTN Example</h4>
+<h3 class="text-success">Example4</h3>
+
+<span [class]="clsName" (click)="ChangeStar()"></span>
+<hr/>
+<h3>Example5</h3>
+<input type="number" #salary>
+<button class="btn btn-primary" (click)="bonus(salary)">Bonus</button>
+{{b1}}
+<hr/>

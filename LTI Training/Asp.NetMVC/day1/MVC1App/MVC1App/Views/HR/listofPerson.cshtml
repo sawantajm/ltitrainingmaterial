@@ -1,0 +1,17 @@
+﻿@model IEnumerable<MVC1App.Models.Person>
+@{
+    ViewData["Title"] = "listofPerson";
+}
+
+<h1>listofPerson</h1>
+@foreach(var item in Model)
+{
+    <table>
+        <thead>Name</thead>
+        <thead>city</thead>
+        <tr>
+           <td>@item.Name</td>
+           <td>@item.city</td>
+        </tr>
+    </table>
+}

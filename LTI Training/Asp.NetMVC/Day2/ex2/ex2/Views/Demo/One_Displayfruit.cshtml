@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewData["Title"] = "One_Displayfruit";
+}
+
+<h1>One_Displayfruit</h1>
+
+
+@foreach(var item in  TempData["MyFruit"] as  List<string>)
+{
+    
+    <li>@item</li>
+}
+

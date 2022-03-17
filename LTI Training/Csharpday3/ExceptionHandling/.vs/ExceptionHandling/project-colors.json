@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3879f9e4-ed44-47b3-8221-0cd078b6202f": {
+      "ProjectGuid": "3879f9e4-ed44-47b3-8221-0cd078b6202f",
+      "DisplayName": "ExceptionHandling",
+      "ColorIndex": 0
+    },
+    "5704ca36-7559-494b-9dbe-7203210f2052": {
+      "ProjectGuid": "5704ca36-7559-494b-9dbe-7203210f2052",
+      "DisplayName": "genericEg",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

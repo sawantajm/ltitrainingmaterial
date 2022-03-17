@@ -1,0 +1,51 @@
+<p>registration works!</p>
+
+<form [formGroup]="registration">
+    <div class="form-group>">
+        <label>Name:</label>
+        <input type="text" name="name" class="form-control" formConrolName="name" />
+
+    </div>
+    <div class="form group>">
+        <label>password:</label>
+        <input type="text" class="form-control" fromControlName="password" />
+        <div  *ngIf="!registration.get('password')?.valid && (registration.get('password')?.dirty || registration.get('password')?.touched)" class="error"></div>
+        <div *ngIf="[registration.get('password')?.errors?.['password']]">
+            <small>password should min 8 letters</small>
+        </div>
+        </div>
+  
+   
+    <div class="form group>">
+        <label>conform password:</label>
+        <input type="text" class="form-control" formControlName=confirmpass/>
+        
+    </div>
+    <div class="form group>">
+        <label>Email:</label>
+        <input type="text" class="form-control" formControlName="email" />
+       
+    </div>
+    <div>
+        <label>Select Gender:</label>
+    <div class="form group>">
+        <label>Male</label>
+        <input type="radio" class="form-control" formControlName="male" />
+       
+    </div>
+        <div class="form group"> <label >female</label>
+        <input type="radio" class="form-control" formControlName="female" />
+        
+        </div>
+    </div>
+    <div class="form-group>">
+        <label>Select Id proof:</label><br/>
+        <input type="checkbox" name="adhar" class="form-control" formControlName="adhar"/>Aadhar card<br/>
+        <input type="checkbox" name="driving" class="form-control" formControlName="driving"/>Driving Licence<br/>
+        <input type="checkbox" name="Pancard" class="form-control" formControlName="pan"/>Pancard
+        
+    </div>
+    <button type="submit" class="btn btn-primary" > Registration</button>
+    
+</form>
+

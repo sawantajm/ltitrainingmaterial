@@ -1,0 +1,104 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = databaseconn
+build_property.RootNamespace = databaseconn
+build_property.ProjectDir = F:\LTI Training\Asp.NetMVC\Day2\databaseconn\databaseconn\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\LTI Training\Asp.NetMVC\Day2\databaseconn\databaseconn
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/LTI Training/Asp.NetMVC/Day2/databaseconn/databaseconn/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/LTI Training/Asp.NetMVC/Day2/databaseconn/databaseconn/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/LTI Training/Asp.NetMVC/Day2/databaseconn/databaseconn/Views/Category/Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGlzcGxheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/LTI Training/Asp.NetMVC/Day2/databaseconn/databaseconn/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/LTI Training/Asp.NetMVC/Day2/databaseconn/databaseconn/Views/Category/GetCategorywithscaff.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcR2V0Q2F0ZWdvcnl3aXRoc2NhZmYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/LTI Training/Asp.NetMVC/Day2/databaseconn/databaseconn/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/LTI Training/Asp.NetMVC/Day2/databaseconn/databaseconn/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/LTI Training/Asp.NetMVC/Day2/databaseconn/databaseconn/Views/Linq/Cust.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlucVxDdXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/LTI Training/Asp.NetMVC/Day2/databaseconn/databaseconn/Views/Linq/Getcatname.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlucVxHZXRjYXRuYW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/LTI Training/Asp.NetMVC/Day2/databaseconn/databaseconn/Views/Linq/SecondLetter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlucVxTZWNvbmRMZXR0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/LTI Training/Asp.NetMVC/Day2/databaseconn/databaseconn/Views/Linq/unitprice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlucVx1bml0cHJpY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/LTI Training/Asp.NetMVC/Day2/databaseconn/databaseconn/Views/Region/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/LTI Training/Asp.NetMVC/Day2/databaseconn/databaseconn/Views/Region/DisplayPerticularData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW9uXERpc3BsYXlQZXJ0aWN1bGFyRGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/LTI Training/Asp.NetMVC/Day2/databaseconn/databaseconn/Views/Region/Displaywithscaff.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW9uXERpc3BsYXl3aXRoc2NhZmYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/LTI Training/Asp.NetMVC/Day2/databaseconn/databaseconn/Views/Region/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW9uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/LTI Training/Asp.NetMVC/Day2/databaseconn/databaseconn/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/LTI Training/Asp.NetMVC/Day2/databaseconn/databaseconn/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/LTI Training/Asp.NetMVC/Day2/databaseconn/databaseconn/Views/Sp/orders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Bcb3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/LTI Training/Asp.NetMVC/Day2/databaseconn/databaseconn/Views/Sp/Tenproduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BcVGVucHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/LTI Training/Asp.NetMVC/Day2/databaseconn/databaseconn/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/LTI Training/Asp.NetMVC/Day2/databaseconn/databaseconn/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/LTI Training/Asp.NetMVC/Day2/databaseconn/databaseconn/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qj0d6mslzg

@@ -1,0 +1,15 @@
+F:\LTI Training\csharpday2\personDetails\InheritanceEg\obj\Debug\net6.0\InheritanceEg.csproj.AssemblyReference.cache
+F:\LTI Training\csharpday2\personDetails\InheritanceEg\obj\Debug\net6.0\InheritanceEg.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTI Training\csharpday2\personDetails\InheritanceEg\obj\Debug\net6.0\InheritanceEg.AssemblyInfoInputs.cache
+F:\LTI Training\csharpday2\personDetails\InheritanceEg\obj\Debug\net6.0\InheritanceEg.AssemblyInfo.cs
+F:\LTI Training\csharpday2\personDetails\InheritanceEg\obj\Debug\net6.0\InheritanceEg.csproj.CoreCompileInputs.cache
+F:\LTI Training\csharpday2\personDetails\InheritanceEg\bin\Debug\net6.0\InheritanceEg.exe
+F:\LTI Training\csharpday2\personDetails\InheritanceEg\bin\Debug\net6.0\InheritanceEg.deps.json
+F:\LTI Training\csharpday2\personDetails\InheritanceEg\bin\Debug\net6.0\InheritanceEg.runtimeconfig.json
+F:\LTI Training\csharpday2\personDetails\InheritanceEg\bin\Debug\net6.0\InheritanceEg.dll
+F:\LTI Training\csharpday2\personDetails\InheritanceEg\bin\Debug\net6.0\ref\InheritanceEg.dll
+F:\LTI Training\csharpday2\personDetails\InheritanceEg\bin\Debug\net6.0\InheritanceEg.pdb
+F:\LTI Training\csharpday2\personDetails\InheritanceEg\obj\Debug\net6.0\InheritanceEg.dll
+F:\LTI Training\csharpday2\personDetails\InheritanceEg\obj\Debug\net6.0\ref\InheritanceEg.dll
+F:\LTI Training\csharpday2\personDetails\InheritanceEg\obj\Debug\net6.0\InheritanceEg.pdb
+F:\LTI Training\csharpday2\personDetails\InheritanceEg\obj\Debug\net6.0\InheritanceEg.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "527b29dd-87f1-46a2-8af6-ff93185cef10": {
+      "ProjectGuid": "527b29dd-87f1-46a2-8af6-ff93185cef10",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 0
+    },
+    "ffcf7402-ea6e-4777-9066-8ece09efe4ee": {
+      "ProjectGuid": "ffcf7402-ea6e-4777-9066-8ece09efe4ee",
+      "DisplayName": "LinqEg",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

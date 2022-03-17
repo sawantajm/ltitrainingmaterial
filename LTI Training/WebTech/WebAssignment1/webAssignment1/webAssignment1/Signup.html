@@ -1,0 +1,144 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Sign Up Form</title>
+    <style>
+        form {
+            text-align: left;
+            border: groove;
+            width: 400px;
+            height: 430px;
+            padding-left: 5px;
+            border-left-color: dodgerblue;
+        }
+    </style>
+    
+
+
+
+       <script type="text/javascript">
+       
+           function Validator() {
+               var email = document.getElementById("email");
+               var password = document.getElementById("pass");
+               var age1 = document.getElementById("age");
+               var about = document.getElementById("aboutus");
+               var agree = document.getElementById("agree");
+
+               if (emailValidator(email, "please Enter Valid email"))
+               {
+                   if (passwordvalidator(password, "password length shoul be 5 to 8 charactor"))
+                   {
+                       if (madeselection(age1, "please select Age")) {
+
+                           if (Aboutvalidator(about, "please fill About your self")) {
+                               if (termandservicevalidator(agree, "Please checked the Term And Services")) {
+                                   return true;
+                               }
+                           }
+                       }
+                   }
+               }
+               else
+               {
+                   return false;
+               }
+           }
+                  function emailValidator(elem, helperMsg)
+                  {
+
+                     var emailExp = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+                     if (elem.value.match(emailExp)) {
+                         return true;
+                     }
+                     else
+                     {
+                         alert(helperMsg)
+                         elem.focus();
+                         return false;
+
+                     }
+                 }
+
+           function passwordvalidator(elem, helperMsg) {
+               var passw = /^(?=.*[0-9])(?=.*[!@#$%^&*])[a-zA-Z0-9!@#$%^&*]{5,9}$/;
+               if (elem.value.match(passw)) {
+                   return true;
+
+               }
+               else {
+                   alert(helperMsg)
+                   elem.focus();
+                   return false;
+               }
+           }
+            
+             
+             function madeselection(elem, helperMsg) {
+                 if (elem.value == "select Age") {
+                     alert(helperMsg);
+                     elem.focus();
+                     return false;
+
+                 }
+                 else {
+                     return true;
+                 }
+             }
+                 function Aboutvalidator(elem, helperMsg) {
+                     debugger;
+                     
+                     if (elem.value.length==0)
+                     {
+                         alert(helperMsg);
+                         elem.focus();
+                         return false;
+                         }
+                         else {
+
+                         return true;
+                         }
+
+                 }
+             function termandservicevalidator() {
+                 var checkbox = document.getElementById("checkbox");
+                 if (checkbox.checked) {
+                     alert("Checkbox is CHECKED.");
+                 }
+                 else {
+                     alert("Checkbox is UNCHECKED.");
+                 }
+
+             }
+         
+     </script>
+</head>
+
+<body>
+    <center>
+
+    <form onsubmit="return Validator()">
+        <h2>Create an Account </h2>
+        Email:<br />
+        <input type="text" id="email" /><br /><br />
+        Password:<br />
+        <input type="password" id="pass" /><br /><br />
+        Age:<br />
+        <select id="age">
+            <option>select Age</option>
+            <option>18</option>
+            <option>19</option>
+            <option>20</option>
+        </select><br /><br />
+        Tell us a Little about Your self:<br />
+       <textarea id="aboutus" rows="4" cols="20"></textarea><br /><br />
+       <input type="checkbox" id="agree" />I agree the <a href="#">terms of service</a>
+        <br /><br />
+        
+         <button type="submit">Sign up</button>
+
+    </form>
+</center>
+</body>
+</html>

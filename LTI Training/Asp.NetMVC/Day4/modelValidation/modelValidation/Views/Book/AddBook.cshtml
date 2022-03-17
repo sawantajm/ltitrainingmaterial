@@ -1,0 +1,45 @@
+﻿@model modelValidation.Models.Mymodel.Book
+@{
+    ViewData["Title"] = "AddBook";
+}
+
+<h1>AddBook</h1>
+
+<div>
+    <form method="post" asp-action="AddBook" asp-controller=Book >
+        <div>
+            <label asp-for=BookName></label>
+            <input asp-for=BookName />
+        </div><br />
+        <div>
+            <label asp-for=Author></label>
+            <input asp-for=Author/>
+
+        </div><br />
+        <div>
+            <label asp-for=price></label>
+            <input asp-for=price />
+        </div><br />
+        <div>
+            <label asp-for=Description></label>
+            <textarea  asp-for=Description cols="20"/></textarea>
+
+        </div><br />
+        <div>
+             <label asp-for=BookType></label>
+            <select asp-for=BookType>
+            <option value="A">Asp.Net</option>
+            <option value="J">Java</option>
+            <option value="C">C#</option>
+            </select>
+        </div>
+        
+        <br />
+        <div>
+            <button type="submit" class="btn btn-primary">Add Book</button>
+        </div>
+
+
+
+    </form>
+</div>

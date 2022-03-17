@@ -1,0 +1,243 @@
+1. Create a class called Customer with Customerid , Name, Age, Phone,City.
+Write a constructors with no arguments and another constructor with all
+information. Write a method called DisplayCustomer(). 
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CSharpAssignment2
+{
+
+    internal class Customer
+    {
+        public int Customerid { get; set; }
+        public  string Name { get; set; }
+        public int age { get; set; }
+        public string Phone { get; set; }
+        public string City { get; set; }
+
+        internal Customer()
+        {
+            Console.WriteLine("Enter Customer Id");
+            Customerid = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter Customr Name");
+            Name = Console.ReadLine();
+            Console.WriteLine("Enter Customer Age");
+            age = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter Phone Number");
+            Phone = Console.ReadLine();
+            Console.WriteLine("Enter City");
+            City=Console.ReadLine();
+
+        }
+
+        public Customer(int customerid, string name, int age, string phone, string city)
+        {
+           this.Customerid = customerid;
+            this.Name = name;
+            this.age = age;
+            this.Phone = phone;
+            this.City = city;
+        }
+
+         internal void DisplayCustomer()
+        {
+            Console.WriteLine("Customer Id {0} || Name:{1} ||  Age {2} Phone Number: {3} ||  City {4}||",Customerid,Name,age,Phone,City);
+        }
+    } 
+
+    class Customerinfo
+    {
+        static void Main()
+        {
+            Customer customer = new Customer();
+            Customer customer1 = new Customer(101,"Ajay",20,"7756953384","Aurangabd");
+            customer.DisplayCustomer();
+            customer1.DisplayCustomer();
+        }
+    }
+
+
+
+}
+
+
+
+
+2. Create a Product class containing pid ,pname,price of product and
+shopname ,Shopid as static . Have a static method to display the shop
+info .fetch multiple product details from user and display the same along
+with shopname.
+
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CSharpAssignment2
+{
+    public class Product
+    {       
+        public int pid { get; set; }
+        
+        public string Pname { get; set; }
+        public int price { get; set; }
+        static string ShopName="Samarth Kirana Stor";
+        static int ShopidShopid = 10001;
+
+        
+
+       
+        public Product(int pid,int pname,int price)
+        {
+            this.pid = pid;
+            this.Pname = Pname;
+            this.price = price;
+        }
+
+        public Product(int pid, string pname, int price)
+        {
+            this.pid = pid;
+            Pname = pname;
+            this.price = price;
+        }
+
+        internal  void Display()
+        {
+
+            Console.WriteLine("Shop Id :{0} || ShopName:{1} || ProductID:{2} || ProductName:{3} ||Price:{4}",ShopidShopid,ShopName,pid,Pname,price);
+        }
+
+    }
+    class productinfo
+    {
+       
+        public static void Main()
+        {
+
+
+             Console.WriteLine("How many product details  ");
+            
+            int noofproduct = Convert.ToInt32(Console.ReadLine());
+
+            Product[] product = new Product[noofproduct];
+            string pname;
+            int Price, pid;
+            for (int i=0;i<noofproduct;i++)
+            {
+                Console.WriteLine("Enter product Id:");
+                pid = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Enter Product Name ");
+                 pname = Console.ReadLine();
+                Console.WriteLine("Enter The Price");
+                 Price = Convert.ToInt32(Console.ReadLine());
+                product[i] = new Product(pid,pname,Price);
+                product[i].Display();
+            }
+
+
+
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+3. Write a program to create a class named Vehicle having protected instance variables
+regnNumber, speed, color, ownerName and a method showData ( ) to show “This is a
+vehicle class”. Inherit the Vehicle class into subclasses named Bus and Car having
+individual private instance variables routeNumber in Bus and manufacturerName in
+Car and both of them having showData ( ) method showing all details of Bus and Car
+respectively with content of the parent class’s showData ( ) method.
+
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CSharpAssignment2
+{
+
+
+    public class Vehical
+    {
+        protected string regnumber { get; set; }
+        protected int speed { get; set; }
+        protected string color { get; set; }
+        protected string Ownername { get; set; }
+
+        public Vehical(string regnumber, int speed, string color, string ownername)
+        {
+            this.regnumber = regnumber;
+            this.speed = speed;
+            this.color = color;
+            Ownername = ownername;
+        }
+     }
+    class Bus : Vehical
+    {
+                 private string routnumber;
+
+        public Bus(string regnumber, int speed, string color, string Ownername, string Routnumber) : base(regnumber,speed,color,Ownername)
+         {
+        
+            
+            this.routnumber = Routnumber;
+         }
+
+
+        public  void ShowData()
+        {
+            Console.WriteLine("Bus Information");
+            Console.WriteLine("RegNo:{0} || speed: {1} || color :{2} || OwnerName:{3} ||RoutNumber:{4}", regnumber, speed, color, Ownername, routnumber);
+        }
+    }
+
+    class Car:Vehical
+    {
+        private string manufactureName;
+
+       public  Car(string regnumber, int speed, string color, string Ownername, string manufactureName):base(regnumber,speed,color,Ownername)
+        {
+            this.manufactureName = manufactureName;
+
+        }
+
+        internal void ShowData()
+        {
+
+            Console.WriteLine("Car Information");
+            Console.WriteLine("RegNo:{0} || speed: {1} || color :{2} || OwnerName:{3} || ManufactureName:{4}",regnumber,speed,color,Ownername,manufactureName);
+        }
+    }
+
+
+
+    class vehicalInfo
+    {
+        static void Main()
+        {
+            Bus bus = new Bus("MH 20 EG 8172", 50, "Red", "MSRTC", "Pune2");
+
+            bus.ShowData();
+            Car car = new Car("MH 40 AC 8888", 20, "Black", "Ajay", "Tesla");
+            car.ShowData();
+       }
+    }
+}

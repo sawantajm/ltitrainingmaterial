@@ -1,0 +1,21 @@
+ <p>productdetails works!</p>
+<table class="table table-striped">
+<thead>
+    <tr>
+        <th> product Id</th>
+        <th>product name</th>
+        <th>Price</th>
+        <th>Image</th>
+
+    </tr>
+</thead>
+<tbody *ngFor="let p of  prod">
+    <tr>
+        <td>{{p.pid}}</td>
+        <td>{{p.pname}}</td>
+        <td>{{p.Price}}</td>
+        <td><img src= {{p.image}} alt="{{p.pname}}" height="100" width="100"/></td>
+    </tr>
+
+</tbody> 
+</table>

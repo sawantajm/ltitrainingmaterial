@@ -1,0 +1,58 @@
+<p>directives works!</p>
+<h1>Strucural Directives</h1>
+<table class="table table-hover table">
+    <thead>
+        <tr>
+            <th>index</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Department</th>
+        </tr>
+    </thead>
+    <tbody *ngFor="let emp of employee,let i=index">
+        <tr>
+            <td>{{i}}</td>
+            <td>{{emp.name}}</td>
+            <td>{{emp.age}}</td>
+            <td>{{emp.dept}}</td>
+        </tr>
+    </tbody>
+</table>
+<h1>NgIf</h1>
+<div *ngFor="let e of employee">
+<div *ngIf="e.age>23">
+    <li>{{e.name}}</li>
+    <li>{{e.age}}</li>
+</div>
+</div>
+<hr>
+<h1>NgSwitch</h1>
+<h4>Employee name is:</h4>
+<select mg-model="employee">
+    <option value="sai"> sai
+        <option value="Hari">Hari
+            <option value="Aru"></option>
+</select>
+<div ng-switch="employee">
+    <div ng-switch-when="sai">
+        <li></li>
+       <li>{{employee.age}}</li>
+
+    
+    </div>
+</div>
+
+
+<h1>Attribute Dirctives</h1>
+<ul *ngFor="let e of employee">
+    <!--[] property binding -->
+    <li [ngClass]="{'text-success':e.dept==='HR','text-info':e.dept=='Finanace'}">{{e.name}}{{e.dept}}</li>
+
+</ul>
+<!--
+<ul  *ngFor="let e of employee ">
+<li [style.color]="getColor(e.name)">{{e.name}}({{e.age}})</li>
+</ul>
+-->
+
+

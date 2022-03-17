@@ -1,0 +1,19 @@
+﻿@model modelValidation.Models.Region
+@{
+    ViewData["Title"] = "Displaydetails";
+}
+
+<h1>Displaydetails</h1>
+
+<div>
+    <form method="post" asp-action="Displaydetails" asp-controller=Region >
+        <div>
+            <label asp-for=RegionDescription></label>
+            <input asp-for=RegionDescription/>
+        </div>
+
+        <div>
+            <button type="Submit" class="btn btn-primary">Save</button>
+        </div>
+    </form>
+</div>

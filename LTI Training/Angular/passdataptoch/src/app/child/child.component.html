@@ -1,0 +1,12 @@
+<p>child works!</p>
+{{inputfromparent}}
+
+<p>on click passing the data to parent </p>
+<button (click)="sendatatoparent()">pass to parent </button>
+<br/>
+
+<p>passing data to parent  from input box</p>
+
+Enter your hobby<input type="text" placeholder="Enter Hobby" name="hobby" #input>
+
+<button type="button" (click)="gethobby(input)">Get Hobby</button>

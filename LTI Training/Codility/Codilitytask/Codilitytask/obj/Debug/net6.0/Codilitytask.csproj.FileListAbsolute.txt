@@ -1,0 +1,15 @@
+F:\LTI Training\Codility\Codilitytask\Codilitytask\bin\Debug\net6.0\Codilitytask.exe
+F:\LTI Training\Codility\Codilitytask\Codilitytask\bin\Debug\net6.0\Codilitytask.deps.json
+F:\LTI Training\Codility\Codilitytask\Codilitytask\bin\Debug\net6.0\Codilitytask.runtimeconfig.json
+F:\LTI Training\Codility\Codilitytask\Codilitytask\bin\Debug\net6.0\Codilitytask.dll
+F:\LTI Training\Codility\Codilitytask\Codilitytask\bin\Debug\net6.0\ref\Codilitytask.dll
+F:\LTI Training\Codility\Codilitytask\Codilitytask\bin\Debug\net6.0\Codilitytask.pdb
+F:\LTI Training\Codility\Codilitytask\Codilitytask\obj\Debug\net6.0\Codilitytask.csproj.AssemblyReference.cache
+F:\LTI Training\Codility\Codilitytask\Codilitytask\obj\Debug\net6.0\Codilitytask.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTI Training\Codility\Codilitytask\Codilitytask\obj\Debug\net6.0\Codilitytask.AssemblyInfoInputs.cache
+F:\LTI Training\Codility\Codilitytask\Codilitytask\obj\Debug\net6.0\Codilitytask.AssemblyInfo.cs
+F:\LTI Training\Codility\Codilitytask\Codilitytask\obj\Debug\net6.0\Codilitytask.csproj.CoreCompileInputs.cache
+F:\LTI Training\Codility\Codilitytask\Codilitytask\obj\Debug\net6.0\Codilitytask.dll
+F:\LTI Training\Codility\Codilitytask\Codilitytask\obj\Debug\net6.0\ref\Codilitytask.dll
+F:\LTI Training\Codility\Codilitytask\Codilitytask\obj\Debug\net6.0\Codilitytask.pdb
+F:\LTI Training\Codility\Codilitytask\Codilitytask\obj\Debug\net6.0\Codilitytask.genruntimeconfig.cache

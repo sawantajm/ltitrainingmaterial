@@ -1,0 +1,97 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Registration Form</title>
+    <style>
+        form {
+            text-align: left;
+            border: groove;
+            border-left-color: blue;
+            width: 500px;
+            padding-left: 1em;
+        }
+    </style>
+    <script>const { type } = require("jquery");
+
+        function validateform() {
+            var Email = document.getElementById("email");
+            var Password = document.getElementById("password");
+
+            if (emailvalidator(Email, "Please enter valid email address")) {
+                if (passwordvalidator(Password, "provide atleast 8 characters")) {
+                    return true;
+                    }
+                }
+            return false;
+        }
+
+
+        function emailvalidator(elem, helperMsg) {
+            var emailExp = /^\w+([\.-]?\w+)@\w+([\.-]?\w+)(\.\w{2,3})+$/;
+            if (elem.value.match(emailExp)) {
+                return true;
+            }
+            else {
+                alert(helperMsg);
+                elem.focus();
+                return false;
+            }
+        }
+        function passwordvalidator(elem, helperMsg) {
+            var passExp = "/^[a-zA-Z0-9!@#\$%\^\&*_=+-]{8,12}$/g";
+            if (elem.value.match(passExp)) {
+                return true;
+            }
+            else {
+                alert(helperMsg);
+                elem.focus();
+                return false;
+            }
+        }</script>
+
+
+</head>
+<body>
+
+    <form onsubmit="return validateform()">
+
+        <h1>Create an Account </h1>
+
+        <label>Email:</label><br>
+        <input type="text" id="email"><br>
+        <br />
+        <label>Password:</label><br>
+        <input type="text" id="password"><br>
+        <br />
+        <label>Age:</label><br>
+        <select id="age">
+            <option>Select Age</option>
+            <option>18</option>
+            <option>19</option>
+            <option>20</option>
+            <option>21</option>
+        </select><br /><br />
+
+        <label>Tell us a Little about yourself:</label>
+        <br />
+        <textarea rows="4" cols="30"></textarea>
+
+        <br />
+        <br />
+
+        <input type="checkbox" id="I agree"
+        <p>I agree to the <a href="https://formswift.com/terms-of-service#:~:text=Terms%20of%20Service%20(TOS)%20is,use%20a%20service%20or%20product.">Terms of service</a> </p>
+
+        <br />
+        <button type="submit">Sign up</button>
+
+        <br />
+
+        <br />
+
+    </form>
+
+
+</body>
+</html>
